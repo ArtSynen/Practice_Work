@@ -1,0 +1,4 @@
+﻿  Pract3 Vpr 6.cpp
+C:\Users\artem\source\repos\Pract3 Vpr 6\Pract3 Vpr 6.cpp(11,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\artem\source\repos\Pract3 Vpr 6\Pract3 Vpr 6.cpp(17,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Pract3 Vpr 6.vcxproj -> C:\Users\artem\source\repos\Pract3 Vpr 6\Debug\Pract3 Vpr 6.exe
